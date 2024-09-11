@@ -29,6 +29,7 @@ nav {
   padding: 2rem;
   border-radius: 30px;
   background-color: rgba(192, 189, 189, 0.384);
+
 }
 
 nav a {
@@ -100,6 +101,7 @@ img {
 }
 .map {
   min-width: 50px;
+  max-width: 200px;
 }
 p {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
